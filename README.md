@@ -13,5 +13,7 @@ On line 93, replace the file path with the *absolute* path to your image.
 On line 34, replace the second value in `@mod` with the width of the image.
 
 Once done, run:
+
 `zig build`
+
 In your terminal, and then run the executable in `zig-out/bin`.
